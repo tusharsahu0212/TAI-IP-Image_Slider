@@ -1,0 +1,16 @@
+#slide3 {
+    position: relative;
+
+    overflow: hidden;
+}
+
+#imgContainer3{
+    position: relative;
+    transition: left 1s;
+    height: 145px;
+    width: 1600px;
+    display: flex;
+    left: 0px;
+}
+
+
